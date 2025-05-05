@@ -27,14 +27,14 @@ This project implements a Reinforcement Learning (RL) based congestion control s
 
 ## Visualize Results
 
-After the video session ends, run:
-  python plot_metrics.py
-This generates line charts showing:
-Actual bitrate (kbps)
-RTT (ms)
-Jitter (ms)
-Packet Loss
-Action bitrate decisions
+After the video session ends, run:  
+  python plot_metrics.py  
+This generates line charts showing:  
+Actual bitrate (kbps)  
+RTT (ms)  
+Jitter (ms)  
+Packet Loss  
+Action bitrate decisions  
 
 ## Sample Results
 | Network | Avg. Bitrate (kbps) | RTT (ms) | Packet Loss (%) | Jitter (ms) |
