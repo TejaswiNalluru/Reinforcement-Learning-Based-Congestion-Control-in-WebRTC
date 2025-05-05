@@ -18,11 +18,11 @@ This project implements a Reinforcement Learning (RL) based congestion control s
 
 ## How to Run the Project
 
-1. Start the Signaling Server
+1. Start the Signaling Server  
    node server.js
-2. Start the RL Agent Server
+2. Start the RL Agent Server  
    python rl_agent/socket_handler.py
-3. Open WebRTC Clients
+3. Open WebRTC Clients  
    Open two browser tabs at: http://localhost:3000
 
 ## Visualize Results
